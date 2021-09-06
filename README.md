@@ -10,6 +10,11 @@
 - Skor, ekranın sol üstünde yazar.<br/>
 - Ekranın üst ortasında bulunan can_barı ne kadar canın kaldığını gösterir. Her yakalanamayan elma için can bir azalır.<br/>
 - Oyun bitince durdur_paneli gösterilir.<br/>
+
+**Yazılan kodlar:**
+- sepet.cs(Assets)<br/>
+- zemin.cs(Assets)<br/>
+- yönetici.cs(Assets)<br/>
 ##
 **Oyuna eklenmek istenenler:**
 - Durdur panelinde bulunan tekrar_oyna butonuna basıldığında oyunun yeniden başlaması.<br/>
