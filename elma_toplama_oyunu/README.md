@@ -22,6 +22,6 @@
 ##
 **Kaynakça:** https://www.youtube.com/watch?v=sb8JNufBNe0&list=PLLnJIFQamFAeIdo8GY1PLjjHXM8-Uv9Rc
 ##
-![alt text](https://github.com/halimebeyzacicek/unity_study/blob/main/z_photos/resim_1.png)
-![alt text](https://github.com/halimebeyzacicek/unity_study/blob/main/z_photos/resim_2.png)
-![alt text](https://github.com/halimebeyzacicek/unity_study/blob/main/z_photos/resim_3.png)
+![alt text](https://github.com/halimebeyzacicek/unity_study/blob/main/elma_toplama_oyunu/z_photos/resim_1.png)
+![alt text](https://github.com/halimebeyzacicek/unity_study/blob/main/elma_toplama_oyunu/z_photos/resim_2.png)
+![alt text](https://github.com/halimebeyzacicek/unity_study/blob/main/elma_toplama_oyunu/z_photos/resim_3.png)
